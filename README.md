@@ -1,4 +1,5 @@
-# marvel-frontend
+# marvel-frontend-api-external
+[Github](https://github.com/BlueFaste/marvel-frontend-api-external)
 
 ## Project setup
 ```
